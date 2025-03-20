@@ -7,9 +7,10 @@
 ## How to reach me:  
 - LinkedIn: [linkedin.com/in/joaopedrosp01](https://linkedin.com/in/joaopedrosp01)
 
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jp4bidube&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jp4bidube&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
- | ----------- | ----------- |
 
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jp4bidube&show_icons=true&theme=tokyonight&hide_border=true)
+
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jp4bidube&layout=compact&theme=radical&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
  
   <div align="center" >
